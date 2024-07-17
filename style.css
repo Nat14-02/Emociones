@@ -1,0 +1,22 @@
+body{
+    color:rgb(233, 84, 84);
+    background-color: #ff7fff;
+}
+.heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+.name_of_objects{
+    color:rgb(255, 0, 200);
+}
+#camera{
+    border: 5px ridge rgb(197, 35, 35);
+    width: 500px;
+    height:500px;
+}
+#result{
+    border: 5px ridge rgb(233, 4, 233);
+    width: 500px;
+    height:500px;
+}
